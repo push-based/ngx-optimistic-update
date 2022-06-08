@@ -1,0 +1,9 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "ngx-optimistic-update": "libs/ngx-optimistic-update",
+    "ngx-optimistic-update-demo": "apps/ngx-optimistic-update-demo",
+    "ngx-optimistic-update-demo-e2e": "apps/ngx-optimistic-update-demo-e2e"
+  }
+}
